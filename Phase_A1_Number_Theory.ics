@@ -1,0 +1,304 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Olympiad Prep Plan//Phase A1//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Olympiad Phase A1 — Number Theory
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-08-11@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:Number Theory: Ch.4 Prime Factorization — theory
+DESCRIPTION:Fundamental theorem of arithmetic\, prime factorization techniq
+ ue. Cold-attempt worked examples.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-08-14@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:Number Theory: Ch.4 Prime Factorization — problem set
+DESCRIPTION:Factor-count and divisor-sum-via-factorization problems.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-08-18@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:Number Theory: Ch.5 Divisor Problems — theory
+DESCRIPTION:Divisor counting/sum formulas\, GCD/LCM via factorization. Quic
+ k check: if the Euclidean Algorithm wasn't fully covered in Ch.3 (Multiple
+ s and Divisors)\, review it here.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-08-25@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:Number Theory: Ch.5 Divisor Problems — problem set
+DESCRIPTION:Divisor-count/sum problems\, harder GCD/LCM applications.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-08-28@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:Number Theory: Ch.6 Special Numbers
+DESCRIPTION:Perfect/abundant/deficient numbers\, palindromes\, special prim
+ es. Mostly definitional — theory + light problem set\, move quickly.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-09-01@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:Number Theory: Ch.7 Algebra with Integers — theory
+DESCRIPTION:Full struggle mode — this is the flagged do-not-rush chapter.
+  Cold-attempt every example.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-09-08@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:Number Theory: Ch.7 Algebra with Integers — problem set
+DESCRIPTION:Highest right-answer/wrong-method risk chapter in the book. Wri
+ te complete solutions\, not just final answers.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-09-11@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:Number Theory: Ch.8 Base Numbers — theory
+DESCRIPTION:Number representation in other bases. Cold-attempt worked examp
+ les.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-09-15@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:Number Theory: Ch.8 Base Numbers — problem set
+DESCRIPTION:Base-conversion problems.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-09-22@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:Number Theory: Ch.9 Base Number Arithmetic — theory
+DESCRIPTION:Arithmetic operations carried out directly in other bases. Cold
+ -attempt examples.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-09-25@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:Number Theory: Ch.9 Base Number Arithmetic — problem set
+DESCRIPTION:Harder base-arithmetic problems.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-09-29@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:Number Theory: Ch.10 Units Digits
+DESCRIPTION:Units-digit patterns and cyclicity — theory + problem set. Us
+ eful speed tool for IOQM.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-10-06@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:Number Theory: Ch.11 Decimals and Fractions
+DESCRIPTION:Decimal expansions\, fraction-to-decimal patterns\, repeating d
+ ecimals — theory + problem set.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-10-09@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:Number Theory: Ch.12 Intro to Modular Arithmetic — theory
+DESCRIPTION:Definitions\, residues. Full struggle mode — core material\, 
+ don't rush.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-10-13@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:Number Theory: Ch.12 Intro to Modular Arithmetic — problem set
+DESCRIPTION:Take the time here — this underlies everything from Ch.13 onw
+ ard.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-10-20@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:Number Theory: Ch.13 Divisibility Rules
+DESCRIPTION:Divisibility rules derived via modular arithmetic — should mo
+ ve fast\, follows directly from Ch.12. Theory + problem set.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-10-23@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:Number Theory: Ch.14 Linear Congruences — theory
+DESCRIPTION:Solving linear congruences. Full struggle mode — core materia
+ l.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-10-27@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:Number Theory: Ch.14 Linear Congruences — problem set
+DESCRIPTION:Harder problems\, including systems of congruences if covered h
+ ere.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-11-03@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:Number Theory: Ch.15 Number Sense
+DESCRIPTION:Synthesis/review chapter — mixed problems drawing on the whol
+ e book.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-11-06@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:Number Theory: AoPS Intro to NT — full book close-out
+DESCRIPTION:Spaced re-solve 3 problems cold: one from Ch.4-6\, one from Ch.
+ 7\, one from Ch.12-14. Log shaky concepts into the notebook. Confirm GCD/E
+ uclidean-Algorithm computation is solid before starting Stevens.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-11-10@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Number Theory: Stevens Ch.1 — Divisibility (theory)
+DESCRIPTION:Should move fast — mostly review of AoPS material. Cold-attem
+ pt examples.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-11-17@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:Number Theory: Stevens Ch.1 — Problem set 1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-11-20@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:Number Theory: Stevens Ch.1 — Problem set 2 (harder)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-11-24@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Number Theory: Stevens Ch.1 — Close out
+DESCRIPTION:Closing problems + write a technique-journal entry for the divi
+ sibility toolkit.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-12-01@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:Number Theory: Stevens Ch.2 — Congruences (theory)
+DESCRIPTION:Cold-attempt worked examples.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-12-04@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:Number Theory: Stevens Ch.2 — Problem set 1
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-12-08@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:Number Theory: Stevens Ch.2 — Problem set 2
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-12-15@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:Number Theory: Stevens Ch.2 — Order of an element / Fermat-Euler
+DESCRIPTION:Problem set on multiplicative order and Fermat-Euler if covered
+  here.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-12-18@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:Number Theory: Stevens Ch.2 — Harder congruence problems
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-12-22@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Number Theory: Stevens Ch.2 — Close out
+DESCRIPTION:Closing problems + technique-journal entry for congruences.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-NumberTheory-v2-2026-12-29@olympiad-plan
+DTSTAMP:20260811T131350Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:Number Theory: Phase A1 Number Theory close-out
+DESCRIPTION:Spaced re-solve 3 problems cold: one from AoPS NT Ch.7/12/14\, 
+ one from Stevens Ch.1\, one from Ch.2. Tidy the notebook. Confirm readines
+ s for Stevens Ch.3 Arithmetic Functions in Phase A2.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

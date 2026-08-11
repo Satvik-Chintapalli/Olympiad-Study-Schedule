@@ -1,0 +1,214 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Olympiad Prep Plan//Phase A1//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Olympiad Phase A1 — Combinatorics
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VEVENT
+UID:phaseA1-Combinatorics-2026-08-13@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:Combinatorics: AoPS C&P — Finish Ch.2 + start Ch.3
+DESCRIPTION:Finish remaining Ch.2 (Basic Counting Techniques) problems. Rea
+ d Ch.3 Correcting for Overcounting (theory + examples).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Combinatorics-2026-08-20@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:Combinatorics: AoPS C&P — Ch.3 problems + Ch.4 start
+DESCRIPTION:Ch.3 problem set. Read Ch.4 Committees and Combinations (theory
+  + examples).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Combinatorics-2026-08-27@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:Combinatorics: AoPS C&P — Ch.4 problems + Ch.5 start
+DESCRIPTION:Ch.4 problem set. Read Ch.5 More with Combinations (theory).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Combinatorics-2026-09-03@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:Combinatorics: AoPS C&P — Ch.5 problems + Ch.6 start
+DESCRIPTION:Ch.5 problem set. Ch.6 Some Harder Counting Problems — full s
+ ession\, this is a synthesis chapter.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Combinatorics-2026-09-10@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:Combinatorics: AoPS C&P — Ch.6 problems + Ch.7 start
+DESCRIPTION:Finish Ch.6 harder counting problems. Read Ch.7 Introduction to
+  Probability.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Combinatorics-2026-09-17@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:Combinatorics: AoPS C&P — Ch.7 problems + Ch.8 start
+DESCRIPTION:Ch.7 problem set. Read Ch.8 Basic Probability Techniques.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Combinatorics-2026-09-24@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Combinatorics: AoPS C&P — Ch.8 problems + Ch.9 + Ch.10 start
+DESCRIPTION:Ch.8 problem set. Ch.9 Think About It! (trickier probability). 
+ Start Ch.10 Geometric Probability theory.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Combinatorics-2026-10-01@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:Combinatorics: AoPS C&P — Ch.10 problems + Ch.11 start
+DESCRIPTION:Ch.10 problem set. Read Ch.11 Expected Value (theory + examples
+ ).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Combinatorics-2026-10-08@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:Combinatorics: AoPS C&P — Close out: Ch.11-15
+DESCRIPTION:Ch.11 problems. Ch.12 Pascal's Triangle\, Ch.13 Hockey Stick Id
+ entity\, Ch.14 Binomial Theorem (fast — pattern-recognition\, should be 
+ quick given JEE fluency). Start Ch.15 More Challenging Problems\; close th
+ e book\, carry remaining Ch.15 problems into Alcumus practice.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Combinatorics-2026-10-15@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:Combinatorics: Alcumus — Counting & Probability grind
+DESCRIPTION:Grind toward consistent Level 4-5. Note any AoPS C&P gaps that 
+ surface.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Combinatorics-2026-10-22@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:Combinatorics: Engel — The Invariance Principle (start)
+DESCRIPTION:Theory + first problems. Cross-read Sriram's 'Processes' sectio
+ n as complementary framing.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Combinatorics-2026-10-29@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:Combinatorics: Engel — The Box Principle (Pigeonhole) + Sriram Al
+ gorithms I-II
+DESCRIPTION:Theory + first problems. Start technique-journal pages for Inva
+ riance and Pigeonhole.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Combinatorics-2026-11-05@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:Combinatorics: Engel — Coloring Proofs (start)
+DESCRIPTION:Theory + first problems.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Combinatorics-2026-11-12@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:Combinatorics: Coloring — targeted practice
+DESCRIPTION:10-15 problems from 102 Combinatorial Problems on coloring.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Combinatorics-2026-11-19@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:Combinatorics: Engel — The Extremal Principle (start)
+DESCRIPTION:Theory + first problems. Sriram 'Existence' section as compleme
+ nt.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Combinatorics-2026-11-26@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Combinatorics: Extremal Principle — targeted practice
+DESCRIPTION:10-15 problems from 102 Combinatorial Problems on extremal argu
+ ments.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Combinatorics-2026-12-03@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:Combinatorics: Combinatorial games — Sriram 'Games' + Engel 'Game
+ s'
+DESCRIPTION:Nim-type analysis\, strategy stealing — intro level.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Combinatorics-2026-12-10@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Combinatorics: Games — problem set
+DESCRIPTION:Problem set + technique-journal entry for games.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Combinatorics-2026-12-17@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Combinatorics: Sriram 'Counting in Two Ways' / double-counting
+DESCRIPTION:Theory + problems — bridges into bijective proofs.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Combinatorics-2026-12-24@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:Combinatorics: Double-counting / bijective problems
+DESCRIPTION:Problems from the 102 Combinatorial Problems Advanced section.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Combinatorics-2026-12-31@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Combinatorics: Phase A1 Combinatorics close-out
+DESCRIPTION:Spaced re-solve 3 problems cold (one Invariance\, one Pigeonhol
+ e\, one Coloring/Extremal). Tidy technique journal. Confirm readiness for 
+ the Graph Theory mini-unit in Phase A2.
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,107 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Olympiad Prep Plan//Phase A1//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Olympiad Phase A1 — Algebra
+X-WR-TIMEZONE:Asia/Kolkata
+BEGIN:VEVENT
+UID:phaseA1-Algebra-2026-08-21@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:Algebra: AoPS Intermediate Algebra — diagnostic pass
+DESCRIPTION:Skim the opening chapter\, do a timed problem set to find rust 
+ spots. Note weak areas for targeted practice.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Algebra-2026-09-04@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:Algebra: Barbeau Polynomials — Ch.1 (theory)
+DESCRIPTION:Basic polynomial properties\, factor theorem. Cold-attempt earl
+ y problems.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Algebra-2026-09-18@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:Algebra: AoPS Intermediate Algebra — targeted practice
+DESCRIPTION:Full problem sets on whatever rust spots the diagnostic surface
+ d (likely functions\, basic inequalities\, complex numbers).
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Algebra-2026-10-02@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:Algebra: Barbeau Ch.1 problems + Ch.2 start
+DESCRIPTION:Finish Ch.1 problems. Start Ch.2 — roots and coefficients rel
+ ations.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Algebra-2026-10-16@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:Algebra: AoPS Intermediate Algebra — continued
+DESCRIPTION:Next section in sequence (sequences/series or exponents & logs)
+  — full problem sets.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Algebra-2026-10-30@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:Algebra: Barbeau Ch.2 — harder problem set
+DESCRIPTION:Root-coefficient relationship problems\, harder tier.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Algebra-2026-11-13@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:Algebra: AoPS Intermediate Algebra — inequalities chapter
+DESCRIPTION:AM-GM and basic inequality technique — useful primer before R
+ iasat in Phase A2.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Algebra-2026-11-27@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Algebra: Barbeau — Ch.2 review + next chapter start
+DESCRIPTION:Review Ch.2. Start the following Barbeau chapter's opening theo
+ ry — keep moving forward\, not just reviewing.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Algebra-2026-12-11@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:Algebra: AoPS Intermediate Algebra — continued
+DESCRIPTION:Complex numbers / functional composition sections\, whichever r
+ emain.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Algebra-2026-12-25@olympiad-plan
+DTSTAMP:20260811T085427Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:Algebra: Phase A1 Algebra close-out
+DESCRIPTION:Spaced re-solve cold: 2 Barbeau problems + 1 AoPS Intermediate 
+ Algebra problem. Assess how close AoPS Intermediate Algebra is to done. Co
+ nfirm Barbeau pace heading into Phase A2 (Riasat + FE start).
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
