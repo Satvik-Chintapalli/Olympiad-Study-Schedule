@@ -5,28 +5,69 @@ CALSCALE:GREGORIAN
 X-WR-CALNAME:Olympiad Phase A1 — Geometry
 X-WR-TIMEZONE:Asia/Kolkata
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-08-12@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-08-12@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20260812
 DTEND;VALUE=DATE:20260813
-SUMMARY:Geometry: BJTOG Ch.3 — Area of Plane Figures (theory)
-DESCRIPTION:Read the theory on area formulas & area ratios. Cold-attempt th
- e worked examples before checking solutions.
+SUMMARY:Geometry: BJTOG Ch.2 — Angles of a Transversal: finish theory + P
+ roblems 1-5 [DONE]
+DESCRIPTION:Completed 12 Aug 2026: remaining theory finished\, Problems 1-5
+  solved.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-08-17@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-08-13@olympiad-plan
+DTSTAMP:20260812T181535Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:Geometry: Homework — Ch.2 problems 6\, 9\, 11
+DESCRIPTION:Light homework alongside today's Combinatorics session — solv
+ e Problems 6\, 9\, 11 from Ch.2.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Geometry-v2-2026-08-14@olympiad-plan
+DTSTAMP:20260812T181535Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:Geometry: Homework — Ch.2 problems 12\, 18\, 20
+DESCRIPTION:Light homework alongside today's Number Theory session — solv
+ e Problems 12\, 18\, 20 from Ch.2.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Geometry-v2-2026-08-15@olympiad-plan
+DTSTAMP:20260812T181535Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:Geometry: Homework — Ch.2 problems 21\, 23\, 24
+DESCRIPTION:Weekend homework — solve Problems 21\, 23\, 24 from Ch.2.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Geometry-v2-2026-08-16@olympiad-plan
+DTSTAMP:20260812T181535Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:Geometry: Homework — Ch.2 problem 25 + Ch.3 theory
+DESCRIPTION:Solve Problem 25 to close out Ch.2. Read Ch.3 (Area of Plane Fi
+ gures) theory ahead of the 17th session so that day can go straight to pro
+ blems.
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:phaseA1-Geometry-v2-2026-08-17@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20260817
 DTEND;VALUE=DATE:20260818
-SUMMARY:Geometry: BJTOG Ch.3 — Problem set 1
-DESCRIPTION:Area-ratio and cevian-based problems\, ~25-30 min struggle floo
- r before hints.
+SUMMARY:Geometry: BJTOG Ch.3 — Area of Plane Figures: Problem set 1
+DESCRIPTION:Theory already covered as homework — go straight to problems.
+  Cold-attempt\, ~25-30 min struggle floor before hints.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-08-19@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-08-19@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20260819
 DTEND;VALUE=DATE:20260820
 SUMMARY:Geometry: BJTOG Ch.3 — Problem set 2 + close out
@@ -35,8 +76,8 @@ DESCRIPTION:Harder area problems. Log 2-3 lemma-notebook entries for area-r
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-08-24@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-08-24@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20260824
 DTEND;VALUE=DATE:20260825
 SUMMARY:Geometry: BJTOG Ch.4 — Similarity of Triangles (theory)
@@ -45,8 +86,8 @@ DESCRIPTION:Read similarity criteria & ratio theory. Cold-attempt worked ex
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-08-26@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-08-26@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Geometry: BJTOG Ch.4 — Problem set 1
@@ -54,8 +95,8 @@ DESCRIPTION:Basic similarity-chain problems.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-08-31@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-08-31@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20260831
 DTEND;VALUE=DATE:20260901
 SUMMARY:Geometry: BJTOG Ch.4 — Problem set 2
@@ -64,8 +105,8 @@ DESCRIPTION:Similarity problems involving spiral/composed similarity if cov
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-09-02@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-09-02@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
 SUMMARY:Geometry: BJTOG Ch.4 — Problem set 3 (harder)
@@ -73,8 +114,8 @@ DESCRIPTION:Medium-hard similarity problems\, full struggle sessions.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-09-07@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-09-07@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
 SUMMARY:Geometry: BJTOG Ch.4 — Close out
@@ -83,8 +124,8 @@ DESCRIPTION:Chapter review + lemma-notebook entries. Spaced re-solve: 1 pro
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-09-09@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-09-09@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20260909
 DTEND;VALUE=DATE:20260910
 SUMMARY:Geometry: BJTOG Ch.5 — Circles (theory)
@@ -93,8 +134,8 @@ DESCRIPTION:Read inscribed-angle theorem\, cyclic quadrilaterals\, power of
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-09-14@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-09-14@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Geometry: BJTOG Ch.5 — Problem set 1
@@ -102,8 +143,8 @@ DESCRIPTION:Cyclic quadrilateral basics.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-09-16@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-09-16@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20260916
 DTEND;VALUE=DATE:20260917
 SUMMARY:Geometry: BJTOG Ch.5 — Problem set 2
@@ -111,8 +152,8 @@ DESCRIPTION:Power of a point problems.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-09-21@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-09-21@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
 SUMMARY:Geometry: BJTOG Ch.5 — Problem set 3
@@ -120,8 +161,8 @@ DESCRIPTION:Tangent lines & intro to radical axis.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-09-23@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-09-23@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20260923
 DTEND;VALUE=DATE:20260924
 SUMMARY:Geometry: BJTOG Ch.5 — Problem set 4 (harder)
@@ -129,8 +170,8 @@ DESCRIPTION:Harder mixed circle problems.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-09-28@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-09-28@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Geometry: BJTOG Ch.5 — Close out
@@ -139,8 +180,8 @@ DESCRIPTION:Circles produce the most lemmas — do a thorough lemma-noteboo
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-09-30@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-09-30@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
 SUMMARY:Geometry: BJTOG Ch.6 — Triangle Centers (theory)
@@ -149,8 +190,8 @@ DESCRIPTION:Centroid\, orthocenter\, circumcenter\, incenter properties. Co
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-10-05@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-10-05@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Geometry: BJTOG Ch.6 — Problem set 1
@@ -158,8 +199,8 @@ DESCRIPTION:Centroid/orthocenter problems.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-10-07@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-10-07@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
 SUMMARY:Geometry: BJTOG Ch.6 — Problem set 2
@@ -167,8 +208,8 @@ DESCRIPTION:Circumcenter/incenter problems.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-10-12@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-10-12@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261012
 DTEND;VALUE=DATE:20261013
 SUMMARY:Geometry: BJTOG Ch.6 — Close out
@@ -177,8 +218,8 @@ DESCRIPTION:Review + lemma notebook. Spaced re-solve 1 problem from Ch.5 (C
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-10-14@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-10-14@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
 SUMMARY:Geometry: BJTOG Ch.7 — Excircles (theory + examples)
@@ -186,8 +227,8 @@ DESCRIPTION:Read theory\, cold-attempt worked examples.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-10-19@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-10-19@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
 SUMMARY:Geometry: BJTOG Ch.7 — Problem set
@@ -195,8 +236,8 @@ DESCRIPTION:Excircle problems.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-10-21@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-10-21@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261021
 DTEND;VALUE=DATE:20261022
 SUMMARY:Geometry: BJTOG Ch.7 — Close out
@@ -204,8 +245,8 @@ DESCRIPTION:Review + lemma notebook. Spaced re-solve 1 problem from Ch.6.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-10-26@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-10-26@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
 SUMMARY:Geometry: BJTOG Ch.8 — Useful Lemmas (catalogue)
@@ -214,8 +255,8 @@ DESCRIPTION:This chapter IS lemma-building — read and transcribe each lem
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-10-28@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-10-28@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Geometry: BJTOG Ch.8 — Applying the lemmas
@@ -223,8 +264,8 @@ DESCRIPTION:Problems that specifically require the lemmas just catalogued.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-11-02@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-11-02@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Geometry: BJTOG Ch.8 — Mixed problem set
@@ -232,8 +273,8 @@ DESCRIPTION:Problems drawing on lemmas from across Ch.3-8.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-11-04@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-11-04@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
 SUMMARY:Geometry: BJTOG close-out
@@ -243,8 +284,8 @@ DESCRIPTION:Full-book close: spaced re-solve 3 problems cold (one each from
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-11-09@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-11-09@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261109
 DTEND;VALUE=DATE:20261110
 SUMMARY:Geometry: EGMO Ch.1 — Angle Chasing (start)
@@ -253,8 +294,8 @@ DESCRIPTION:Read directed-angle setup & basic angle-chasing theory. Cold-at
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-11-11@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-11-11@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Geometry: EGMO Ch.1 — Problem set 1
@@ -262,8 +303,8 @@ DESCRIPTION:Classic angle-chasing configurations.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-11-16@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-11-16@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Geometry: EGMO Ch.1 — Problem set 2
@@ -271,8 +312,8 @@ DESCRIPTION:Cyclic-quadrilateral angle chasing — bridges BJTOG Ch.5.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-11-18@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-11-18@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 SUMMARY:Geometry: EGMO Ch.1 — Directed angles practice
@@ -280,8 +321,8 @@ DESCRIPTION:Trickier directed-angle configurations.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-11-23@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-11-23@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 SUMMARY:Geometry: EGMO Ch.1 — Harder problems
@@ -289,8 +330,8 @@ DESCRIPTION:Problems from the harder end of the chapter.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-11-25@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-11-25@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Geometry: EGMO Ch.1 — Review
@@ -299,8 +340,8 @@ DESCRIPTION:Redo\, cold\, 2 problems that gave trouble earlier in the chapt
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-11-30@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-11-30@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Geometry: EGMO Ch.1 — Spaced-review day (no new content)
@@ -308,8 +349,8 @@ DESCRIPTION:1 BJTOG lemma-notebook problem + 1 EGMO Ch.1 problem\, cold.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-12-02@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-12-02@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 SUMMARY:Geometry: EGMO Ch.1 — Close out
@@ -318,8 +359,8 @@ DESCRIPTION:Attempt the hardest remaining Ch.1 problem. Finalize angle-chas
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-12-07@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-12-07@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 SUMMARY:Geometry: EGMO Ch.2 — Circles (start)
@@ -328,8 +369,8 @@ DESCRIPTION:Read theory — this extends BJTOG Ch.5 substantially. Cold-att
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-12-09@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-12-09@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 SUMMARY:Geometry: EGMO Ch.2 — Problem set 1
@@ -337,8 +378,8 @@ DESCRIPTION:Power of a point / radical axis at EGMO depth.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-12-14@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-12-14@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 SUMMARY:Geometry: EGMO Ch.2 — Problem set 2
@@ -346,8 +387,8 @@ DESCRIPTION:Cyclic quadrilaterals at EGMO difficulty.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-12-16@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-12-16@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 SUMMARY:Geometry: EGMO Ch.2 — Tangent circles & homothety
@@ -355,8 +396,8 @@ DESCRIPTION:Intro-level tangent-circle and homothety problems.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-12-21@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-12-21@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:Geometry: EGMO Ch.2 — Harder mixed problems
@@ -364,8 +405,8 @@ DESCRIPTION:Mixed-difficulty circle problems.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-12-23@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-12-23@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 SUMMARY:Geometry: EGMO Ch.2 — Full struggle session
@@ -373,8 +414,8 @@ DESCRIPTION:Very hard Ch.2 problems\, 25-30+ min struggle floor.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-12-28@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-12-28@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 SUMMARY:Geometry: EGMO Ch.2 — Review & lemma consolidation
@@ -382,8 +423,8 @@ DESCRIPTION:Consolidate EGMO-circles lemmas into the notebook.
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:phaseA1-Geometry-2026-12-30@olympiad-plan
-DTSTAMP:20260811T085427Z
+UID:phaseA1-Geometry-v2-2026-12-30@olympiad-plan
+DTSTAMP:20260812T181535Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:Geometry: Phase A1 Geometry close-out
